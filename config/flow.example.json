@@ -1,0 +1,7 @@
+{
+  "input_dir": "outputs/preprocessing",
+  "output_dir": "outputs/flow",
+  "max_path_nodes": 6,
+  "sink_capacity": 2.0,
+  "expected_modules": 8
+}

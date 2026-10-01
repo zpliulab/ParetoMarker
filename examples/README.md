@@ -1,0 +1,1 @@
+All examples are artificial. The preprocessed fixture exercises the Python stage independently and demonstrates the exported MATLAB input contract, including `initial_population.csv`. No example output is a manuscript result.

@@ -1,0 +1,9 @@
+source,target,capacity
+toy_gene_1,toy_gene_2,1.0
+toy_gene_2,toy_gene_3,2.0
+toy_gene_3,toy_gene_4,1.0
+toy_gene_4,toy_gene_5,3.0
+toy_gene_5,toy_gene_6,1.0
+toy_gene_6,toy_gene_7,2.0
+toy_gene_7,toy_gene_8,1.0
+toy_gene_3,toy_gene_7,1.0
